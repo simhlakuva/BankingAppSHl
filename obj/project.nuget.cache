@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2wHflGFV30cv3J24884yr9BdBTntla1LFB4XhhBE7KutdaqSq8pgjeIVvoLu32DKcdW+bdiEYRmWbjerzwqR3A==",
+  "dgSpecHash": "KF5VbUkCfnzrquleHFAqtCOzopS5//ijk2f6AVDCdlsu4Z3bB8dysyHKbghf7bOvXwMCF+i9tEUWGDN7eqr4pw==",
   "success": true,
   "projectFilePath": "C:\\Users\\SimamkeleHlakuva\\SHXamarin\\BankingAppSH\\BankingAppSH\\BankingAppSH\\BankingAppSH.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,7 @@
     "C:\\Users\\SimamkeleHlakuva\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\SimamkeleHlakuva\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+    "C:\\Users\\SimamkeleHlakuva\\.nuget\\packages\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
   ],
   "logs": []
 }

@@ -11,32 +11,18 @@ namespace BankingAppSH
             InitializeComponent();
 
             MainPage = new MainPage();
+            //MainPage = new NavigationPage(new MainPage());
         }
-       /* public void Information()
+        protected override void OnStart()
         {
-            Customer myNewCustomer = new Customer("7766445424", "10 me at home", "Bob", "The Builder");
-        }*/
-        
-        protected void Deposit_Clicked()
-        {
-           /* var account = myNewCustomer.ApplyForBankAccount();
-            account.DepositMoney(1500, DateTime.Now, "Stipend");*/
-            decimal amount;
-            string description;
         }
 
-        protected  void WithdrawMoneyButton_Clicked()
+        protected override void OnSleep()
         {
-            //var account = myNewCustomer.ApplyForBankAccount();
-            //account.DepositMoney(1500, DateTime.Now, "Stipend");
-            decimal amount;
-            string description;
         }
 
-        protected  void TransactionHistoryButton_Clicked()
+        protected override void OnResume()
         {
-            //var account = myNewCustomer.ApplyForBankAccount();
-           // var history = account.GetTransactionHistory();
         }
     }
 }

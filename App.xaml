@@ -5,9 +5,6 @@
     <Application.Resources>
 
     </Application.Resources>
+    
 </Application>
 
-<Button Text="Deposit Money" Clicked="Deposit_Clicked" />
-<Button Text="Withdraw Money" Clicked="WithdrawMoneyButton_Clicked"/>
-<Button Text="Get Transaction History" Clicked="THistoryButton_Clicked" />
-    g

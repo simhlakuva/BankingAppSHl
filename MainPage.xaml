@@ -7,14 +7,16 @@
         <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
             <Label Text="Banking App" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
         </Frame>
-        <Entry x:Name="EnterDepositAmount" Text="Enter Amount"/>
-        <Entry x:Name="EnterDepositDescription" Text="Enter Description"/>
-        <Button x:Name="DepositMoneyButton" Text="Deposit Money"/>
-        <Entry x:Name="EnterAmount" Text="Enter Amount"/>
+        <Entry x:Name="EnterDepositAmount" Placeholder="Enter Amount"/>
+        <Entry x:Name="EnterDepositDescription" Placeholder="Enter Description"/>
+        <Button Clicked="DMoneyButton_Clicked" Text="Deposit Money"/>
+        
+        <Entry x:Name="EnterWithdrawAmount" Text="Enter Amount"/>
         <Entry x:Name="EnterDescription" Text="Enter Description"/>
-        <Button x:Name="TransactionHistoryButton" Text="View Transaction History" Clicked="THistoryButton_Clicked"/>
+        <Button Text="Withdraw Money" Clicked="WMoneyButton_Clicked"/>
 
+        <Button x:Name="TransactionHistoryButton" Text="View Transaction History" Clicked="THistoryButton_Clicked"/>
 
     </StackLayout>
 
-</ContentPage>
+</ContentPage> 
