@@ -12,3 +12,17 @@ C:\Users\SimamkeleHlakuva\SHXamarin\BankingAppSH\BankingAppSH\BankingAppSH\obj\D
 C:\Users\SimamkeleHlakuva\SHXamarin\BankingAppSH\BankingAppSH\BankingAppSH\obj\Debug\netstandard2.0\ref\BankingAppSH.dll
 C:\Users\SimamkeleHlakuva\SHXamarin\BankingAppSH\BankingAppSH\BankingAppSH\obj\Debug\netstandard2.0\BankingAppSH.pdb
 C:\Users\SimamkeleHlakuva\SHXamarin\BankingAppSH\BankingAppSH\BankingAppSH\obj\Debug\netstandard2.0\BankingAppSH.csprojAssemblyReference.cache
+C:\Users\SimamkeleHlakuva\SHXamarin\BankingAppSH\BankingAppSH\BankingAppSH\BankingAppSH\bin\Debug\netstandard2.0\BankingAppSH.deps.json
+C:\Users\SimamkeleHlakuva\SHXamarin\BankingAppSH\BankingAppSH\BankingAppSH\BankingAppSH\bin\Debug\netstandard2.0\BankingAppSH.dll
+C:\Users\SimamkeleHlakuva\SHXamarin\BankingAppSH\BankingAppSH\BankingAppSH\BankingAppSH\bin\Debug\netstandard2.0\ref\BankingAppSH.dll
+C:\Users\SimamkeleHlakuva\SHXamarin\BankingAppSH\BankingAppSH\BankingAppSH\BankingAppSH\bin\Debug\netstandard2.0\BankingAppSH.pdb
+C:\Users\SimamkeleHlakuva\SHXamarin\BankingAppSH\BankingAppSH\BankingAppSH\BankingAppSH\obj\Debug\netstandard2.0\BankingAppSH.csprojAssemblyReference.cache
+C:\Users\SimamkeleHlakuva\SHXamarin\BankingAppSH\BankingAppSH\BankingAppSH\BankingAppSH\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\SimamkeleHlakuva\SHXamarin\BankingAppSH\BankingAppSH\BankingAppSH\BankingAppSH\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\SimamkeleHlakuva\SHXamarin\BankingAppSH\BankingAppSH\BankingAppSH\BankingAppSH\obj\Debug\netstandard2.0\BankingAppSH.AssemblyInfoInputs.cache
+C:\Users\SimamkeleHlakuva\SHXamarin\BankingAppSH\BankingAppSH\BankingAppSH\BankingAppSH\obj\Debug\netstandard2.0\BankingAppSH.AssemblyInfo.cs
+C:\Users\SimamkeleHlakuva\SHXamarin\BankingAppSH\BankingAppSH\BankingAppSH\BankingAppSH\obj\Debug\netstandard2.0\BankingAppSH.csproj.CoreCompileInputs.cache
+C:\Users\SimamkeleHlakuva\SHXamarin\BankingAppSH\BankingAppSH\BankingAppSH\BankingAppSH\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\SimamkeleHlakuva\SHXamarin\BankingAppSH\BankingAppSH\BankingAppSH\BankingAppSH\obj\Debug\netstandard2.0\BankingAppSH.dll
+C:\Users\SimamkeleHlakuva\SHXamarin\BankingAppSH\BankingAppSH\BankingAppSH\BankingAppSH\obj\Debug\netstandard2.0\ref\BankingAppSH.dll
+C:\Users\SimamkeleHlakuva\SHXamarin\BankingAppSH\BankingAppSH\BankingAppSH\BankingAppSH\obj\Debug\netstandard2.0\BankingAppSH.pdb

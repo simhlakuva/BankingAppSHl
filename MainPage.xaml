@@ -11,8 +11,8 @@
         <Entry x:Name="EnterDepositDescription" Placeholder="Enter Description"/>
         <Button Clicked="DMoneyButton_Clicked" Text="Deposit Money"/>
         
-        <Entry x:Name="EnterWithdrawAmount" Text="Enter Amount"/>
-        <Entry x:Name="EnterDescription" Text="Enter Description"/>
+        <Entry x:Name="EnterWithdrawAmount" Placeholder="Enter Amount"/>
+        <Entry x:Name="EnterDescription" Placeholder="Enter Description"/>
         <Button Text="Withdraw Money" Clicked="WMoneyButton_Clicked"/>
 
         <Button x:Name="TransactionHistoryButton" Text="View Transaction History" Clicked="THistoryButton_Clicked"/>
